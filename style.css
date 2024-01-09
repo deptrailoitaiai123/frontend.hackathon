@@ -60,6 +60,7 @@ a {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   position: relative;
+  box-shadow: box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
 }
 .section-right {
   background-color: rgb(94, 95, 113);
@@ -73,7 +74,7 @@ a {
   position: absolute;
   right: 300px;
   box-shadow: inset;
- 
+  margin: ;
 }
 .section-left {
   width: 50%;
@@ -88,8 +89,9 @@ a {
 }
 .section-left .button {
   color: white;
-  background-color: burlywood;
-  height: 50px;
+  background-color: rgb(133, 164, 204);
+  height: 45px;
+  border-radius: 5px;
 
   padding: 10px 15px;
 }
